@@ -1,0 +1,18 @@
+{
+    "Users" : {
+        "pi" : 3.141593,
+        "0" : {
+            "name" : "Саман", 
+            "nickname" : "samanwirst", 
+            "telegram_channel" : "https://t.me/blg_projects", 
+            "channels_amount" : 3, 
+            "habr" : "https://habr.com/ru/users/samanwirst"
+        }, 
+        "1" : {
+            "name" : "No", 
+            "nickname" : null, 
+            "telegram_channel" : true, 
+            "habr" : false
+        }
+    }
+}
